@@ -1,0 +1,19 @@
+{
+  "name": "bb9md",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xrem/bb9md.git"
+  },
+  "author": "X-rem",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/xrem/bb9md/issues"
+  },
+  "homepage": "https://github.com/xrem/bb9md#readme"
+}
